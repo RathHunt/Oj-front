@@ -1,0 +1,12 @@
+<svg width="784" height="300" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>COJ Logo</title>
+  <ellipse stroke="#303F9F" stroke-width="10" ry="140" rx="140" id="svg_3" cy="149.99999" cx="638.99999" fill="#ffffff"/>
+  <ellipse stroke="#303F9F" stroke-width="10" ry="140" rx="140" id="svg_7" cy="149.99999" cx="399.99999" fill="#ffffff"/>
+  <ellipse stroke="#303F9F" stroke-width="10" ry="140" rx="139.5" id="svg_8" cy="149.99999" cx="144.50001" fill="#ffffff"/>
+  <text transform="matrix(13.9903 0 0 11.3286 -2653.51 -3136.27)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Arial" font-size="24" id="svg_9" y="298.91842" x="191.14769" stroke-width="0" fill="#000000">C</text>
+  <text transform="matrix(12.6594 0 0 11.3417 -3551.54 -2405.16)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Arial" font-size="24" id="svg_10" y="234.17158" x="302.79839" stroke-width="0" fill="#000000">O</text>
+  <text font-weight="normal" transform="matrix(15.9726 0 0 11.0993 -9022.28 -2921.15)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Arial" font-size="24" id="svg_13" y="285.24345" x="599.37357" stroke-width="0">J</text>
+ </g>
+
+</svg>

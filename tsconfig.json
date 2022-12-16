@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "types": ["vite/client"],
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true
+    },
+    "include": ["src/components", "src/custom.d.ts"]
+}

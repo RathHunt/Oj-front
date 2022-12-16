@@ -1,0 +1,32 @@
+.header {
+    height: 20vh;
+    padding-right: 0;
+    margin-right: 0;
+
+}
+
+.logo {
+    height: 10vh;
+}
+
+.slogan {
+    font-size: 5vh;
+    letter-spacing: 2pt;
+    text-shadow: black 1px 0 10px;
+}
+
+.i18n {
+    margin: 5px;
+    margin-top: 10px;
+}
+
+@font-face {
+    font-family: "Noto Color Emoji";
+    src: url(/src/fonts/NotoColorEmoji-Regular.ttf) format("truetype");
+}
+
+a.NotoColorEmoji {
+    font-family: "Noto Color Emoji", Arial, Helvetica, sans-serif;
+    min-height: 48px;
+    min-width: 48px;
+}
